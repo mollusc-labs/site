@@ -1,0 +1,9 @@
+content div.columns {
+    max-width: 900px;
+}
+
+content div h2 {
+    text-align: left;
+    width: 100%;
+    font-size: calc(18px + 0.33vw);
+}
